@@ -1,11 +1,10 @@
 # Tugas Pertemuan 5
 ## Pemrograman Orientasi Objek
 
-sh
+````
 Nama   : Ikram Ramadhan
 Nim    : 312110478
 Matkul : Pemrograman Orientasi Objek
-
 
 ### 1.file Main.java
 * *CODINGAN
@@ -55,7 +54,7 @@ public class Main {
 }
 
 
-
+````````
 * *Hasil output program:*
 ![Gambar](screenshoot/ss1.jpg
 )
